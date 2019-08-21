@@ -1,3 +1,9 @@
+---
+layout: post
+title: Windows Explorer Preferences In Shellbags
+categories: [Forensics, Shellbags, Windows Artifacts]
+---
+
 This blog post is in response to David Cowen's Weekly Challenge as seen in his Daily Blog #610.
 
 The three questions I will be answering in this post include the following:
